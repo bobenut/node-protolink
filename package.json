@@ -1,0 +1,24 @@
+{
+  "name": "protolink",
+  "version": "0.1.0",
+  "description": "A node.js module for chaining object on prototype.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobenut/node-protolinks"
+  },
+  "keywords": [
+    "node",
+    "prototype",
+    "prototype chain"
+
+  ],
+  "author": "bobenut",
+  "bugs": {
+    "url": "https://github.com/bobenut/node-protolinks/issues"
+  },
+  "homepage": "https://github.com/bobenut/node-protolinks#readme"
+}
