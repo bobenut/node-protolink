@@ -6,11 +6,10 @@ Object.prototype.protolink = function(protoObj){
     }
 
     if(this.__proto__!==Object.prototype){
-        this.__proto__.protolink(protoObj);
-        return;
+        return this.__proto__.protolink(protoObj);
     }
 
-    this.__proto__ = protoObj;
+    return this.__proto__ = protoObj;
 }
 
 
