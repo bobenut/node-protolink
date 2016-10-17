@@ -5,7 +5,7 @@
 ##Purpose
 
 A node.js module for chaining object on prototype.
-In javascript, inherit with prototype chain when it comes to inheritance. Even if Class feature was created in ES6, it's done by prototype chain. Protolink provide simple function that can make prototype chain for two object.
+In javascript, do it with prototype chain when it comes to inherit. Even if Class feature was created in ES6, it's essentially done by prototype chain. Protolink provide simple function that can make prototype chain for two object.
 
 
 
