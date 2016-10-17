@@ -22,6 +22,8 @@ npm install protolink
 
 Base object.
 ```
+require('protolink');
+
 var baseEffect = {
     prepare: function (context) {
         throw new Error('Please override prepare method');
