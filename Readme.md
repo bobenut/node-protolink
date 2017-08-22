@@ -1,15 +1,15 @@
-#protolink
+# protolink
 
 
 
-##Purpose
+## Purpose
 
 A node.js module for chaining object on prototype.
 In javascript, do it with prototype chain when it comes to inherit. Even if Class feature was created in ES6, it's essentially done by prototype chain. Protolink provide simple function that can make prototype chain for two object.
 
 
 
-##Installation
+## Installation
 
 Via npm.
 ```
@@ -18,7 +18,7 @@ npm install protolink
 
 
 
-##Usage
+## Usage
 
 Base object.
 ```
@@ -62,5 +62,5 @@ Object also could be created use constructor.
 
 
 
-##License
-Protolink is licensed under the GNU General Public License v3.0.
+## License
+Protolink is licensed under the MIT.
